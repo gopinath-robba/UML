@@ -1,4 +1,9 @@
-In this lab you have instrumented with retriever, embeddings, and RAG pipeline, in a few words answer the following questions:
+Video link: https://iit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=319acd47-f151-4957-b5f6-b28601257763&start=10
+
 Did you encounter any errors while running the provided IPYNB scripts? If yes, share the error messages you got and how you resolved those errors.
+No 
+
 After you modified and ran the provided IPYNB scripts as instructed in the instructions document, did you get the correct output? Explain your answer.
+Yes, Got all the expected outputs
+
 Share the screenshots of the output you got in the IPYNB scripts that you ran.
